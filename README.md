@@ -1,3 +1,5 @@
+![image](/Preview.png)
+
 # Installing manually
 
 Clone this repo:
